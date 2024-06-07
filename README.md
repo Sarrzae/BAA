@@ -68,5 +68,8 @@ After selecting the dataset and the type of training model to be used in `main.p
 execute the file.
 Training recipes used in our paper:  `python main.py`
 
+##Publication
+Jonghoon Im, Jun Younes Louhi Kasahara, Hiroshi Maruyama, Hajime Asama and Atsushi Yamashita: "Blend AutoAugment: Automatic Data Augmentation for Image Classification Using Linear Blending", IEEE Access, Vol. 12, 2024. [doi:10.1109/ACCESS.2024.3401167]
+![image](https://github.com/Sarrzae/Blend-AutoAugment/assets/160628572/d01dbf84-5218-4221-9952-99c382d8c6aa)
 
 
